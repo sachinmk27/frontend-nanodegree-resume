@@ -140,7 +140,9 @@ a {
   justify-content: space-around;
   padding: 10px;
 }
-
+#skills {
+    flex-direction: column;
+}
 .center-content {
   padding: 2.5% 5%;
 }
